@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/jeskopp/arduino-1.8.5/hardware/arduino/avr/cores/arduino",
+                "/home/jeskopp/arduino-1.8.5/hardware/tools/avr/avr/include",
+                "/home/jeskopp/arduino-1.8.5/libraries"
+
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "/home/jeskopp/arduino-1.8.5/hardware/arduino/avr/cores/arduino",
+                    "/home/jeskopp/arduino-1.8.5/hardware/tools/avr/avr/include",
+                    "/home/jeskopp/arduino-1.8.5/libraries"
+                ]
+            },
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
